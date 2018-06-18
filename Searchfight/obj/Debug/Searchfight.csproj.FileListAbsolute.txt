@@ -11,3 +11,16 @@ C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.Common.dl
 C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.BL.pdb
 C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.SL.pdb
 C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.Common.pdb
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.exe.config
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.exe
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.pdb
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.BL.dll
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.SL.dll
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.Common.dll
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.BL.pdb
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.SL.pdb
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\bin\Debug\Searchfight.Common.pdb
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\obj\Debug\Searchfight.csprojResolveAssemblyReference.cache
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\obj\Debug\Searchfight.csproj.CoreCompileInputs.cache
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\obj\Debug\Searchfight.exe
+C:\Sergio\Projects\Demo\SearchfightDemo\Searchfight\obj\Debug\Searchfight.pdb
