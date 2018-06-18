@@ -1,0 +1,13 @@
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.exe.config
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.exe
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.pdb
+C:\Users\svargas\Desktop\Searchfight\Searchfight\obj\Debug\Searchfight.csprojResolveAssemblyReference.cache
+C:\Users\svargas\Desktop\Searchfight\Searchfight\obj\Debug\Searchfight.csproj.CoreCompileInputs.cache
+C:\Users\svargas\Desktop\Searchfight\Searchfight\obj\Debug\Searchfight.exe
+C:\Users\svargas\Desktop\Searchfight\Searchfight\obj\Debug\Searchfight.pdb
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.BL.dll
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.SL.dll
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.Common.dll
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.BL.pdb
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.SL.pdb
+C:\Users\svargas\Desktop\Searchfight\Searchfight\bin\Debug\Searchfight.Common.pdb
